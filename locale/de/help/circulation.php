@@ -10,10 +10,10 @@ Hilfe Untersektionen:
 <a name="barc">
 Ausleihe mit oder ohne aufgeklebte Barcodes</a>:
 <br>
-Die Openbiblio Ausleihformulare sind designed um eine effiziente Ausleihe zu gewährleisten, wenn man einen Barcode-Scanner sowie  
+Die Openbiblio Ausleihformulare sind designed um eine effiziente Ausleihe zu gew&auml;hrleisten, wenn man einen Barcode-Scanner sowie  
 <a href="../shared/help.php?page=barcodes">Barcodes</a> 
 die auf die Mitgliederkarten und auf die Exemplare gedruckt sind verwendet.
 <br>
-Es ist aber genauso möglich die Funktionen zu nutzen, wenn man keine Barcodes benutzt; Benutzer können nach dem Nachnamen und die OPAC-basierte 
+Es ist aber genauso m&ouml;glich die Funktionen zu nutzen, wenn man keine Barcodes benutzt; Benutzer kï¿½nnen nach dem Nachnamen und die OPAC-basierte 
 <a href="../shared/help.php?page=opacLookup">Barcode-Suche</a> 
-findet die Barcodenummer des Exemplars heraus, für Ausleihe, Rückgabe oder Vorbestellung.
+findet die Barcodenummer des Exemplars heraus, f&uuml;r Ausleihe, Rï¿½ckgabe oder Vorbestellung.

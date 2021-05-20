@@ -1,6 +1,6 @@
 insert into %prfx%settings
 values (
-  'Meine Bibliothek'
+  'Rabenspass Ausleihsystem'
   ,'../images/sampleLogo.png'
   ,'N'
   ,'M-F 8-21, Sa 12-17, So 13-17'
