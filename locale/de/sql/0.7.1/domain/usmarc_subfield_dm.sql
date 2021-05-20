@@ -633,7 +633,7 @@ insert into %prfx%usmarc_subfield_dm values (507,'a','Wiedergabe des Massstabes'
 insert into %prfx%usmarc_subfield_dm values (507,'b','Weitere Angaben zum Massstab','N');
 insert into %prfx%usmarc_subfield_dm values (507,'6','Verknuepfung','N');
 insert into %prfx%usmarc_subfield_dm values (507,'8','Feldverknuepfung und Folgenummer','Y');
-insert into %prfx%usmarc_subfield_dm values (508,'a','Fussnote zu den Mitwirkenden bei der technischen oder kuenstlerischen Realisation','N');
+insert into %prfx%usmarc_subfield_dm values (508,'a','Fussnote zu den Mitwirkenden','N');
 insert into %prfx%usmarc_subfield_dm values (508,'6','Verknuepfung','N');
 insert into %prfx%usmarc_subfield_dm values (508,'8','Feldverknuepfung und Folgenummer','Y');
 insert into %prfx%usmarc_subfield_dm values (510,'a','Name der Quelle','N');
@@ -722,7 +722,7 @@ insert into %prfx%usmarc_subfield_dm values (533,'c','Fuer die Reproduktion vera
 insert into %prfx%usmarc_subfield_dm values (533,'d','Reproduktionsjahr','N');
 insert into %prfx%usmarc_subfield_dm values (533,'e','Physische Beschreibung der Reproduktion','N');
 insert into %prfx%usmarc_subfield_dm values (533,'f','Gesamttitelangabe der Reproduktion','Y');
-insert into %prfx%usmarc_subfield_dm values (533,'m','Erscheinungsjahre und/oder Folgebezeichnung der reproduzierten Ausgaben','Y');
+insert into %prfx%usmarc_subfield_dm values (533,'m','Erscheinungsjahre Folgebezeichnung der reproduzierten Ausgaben','Y');
 insert into %prfx%usmarc_subfield_dm values (533,'n','Anmerkung zur Reproduktion','Y');
 insert into %prfx%usmarc_subfield_dm values (533,'3','spezifizierte Materialen','N');
 insert into %prfx%usmarc_subfield_dm values (533,'6','Verknuepfung','N');
