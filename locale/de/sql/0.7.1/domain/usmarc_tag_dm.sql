@@ -87,7 +87,7 @@ insert into %prfx%usmarc_tag_dm values (5,504,'Fussnote zur Angabe von Literatur
 insert into %prfx%usmarc_tag_dm values (5,505,'Strukturierte Inhaltsangabe','Steuerung der Anzeigekonstante','Stufe der Inhaltsangabe','Y');
 insert into %prfx%usmarc_tag_dm values (5,506,'Fussnote zur Zugangsbeschraenkung fuer Dokumente','Undefiniert','Undefiniert','Y');
 insert into %prfx%usmarc_tag_dm values (5,507,'Fussnote zum Massstab fuer graphisches Material','Undefiniert','Undefiniert','N');
-insert into %prfx%usmarc_tag_dm values (5,508,'Fussnote zu den Mitwirkenden bei der technischen oder kuenstlerischen Realisation','Undefiniert','Undefiniert','Y');
+insert into %prfx%usmarc_tag_dm values (5,508,'Fussnote zu den Mitwirkenden','Undefiniert','Undefiniert','Y');
 insert into %prfx%usmarc_tag_dm values (5,510,'Fussnote zu Zitaten und Referenzen','Abdeckung/exakte Referenz der zitierten Quelle','Undefiniert','Y');
 insert into %prfx%usmarc_tag_dm values (5,511,'Fussnote zu den Mitwirkenden und Interpreten','Kontrolle der Anzeigekonstante','Undefiniert','Y');
 insert into %prfx%usmarc_tag_dm values (5,513,'Fussnote zu Art und Zeitraum des Berichtes','Undefiniert','Undefiniert','Y');
