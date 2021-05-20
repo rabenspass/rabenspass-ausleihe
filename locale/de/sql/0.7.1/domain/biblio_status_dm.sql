@@ -6,4 +6,4 @@ insert into %prfx%biblio_status_dm values ('hld','vorbestellt','N');
 insert into %prfx%biblio_status_dm values ('lst','verloren','N');
 insert into %prfx%biblio_status_dm values ('ln','Leihgabe','N');
 insert into %prfx%biblio_status_dm values ('ord','bestellt','N');
-insert into %prfx%biblio_status_dm values ('crt','in Eingangsablage','N');
+insert into %prfx%biblio_status_dm values ('crt','in Eingangspr&uuml;fung','N');
