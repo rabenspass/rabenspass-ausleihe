@@ -67,7 +67,7 @@ $trans["biblioFieldsCollection"]   = "\$text = 'Collection';";
 $trans["biblioFieldsCallNmbr"]     = "\$text = 'Call Number';";
 $trans["biblioFieldsUsmarcFields"] = "\$text = 'USMarc Fields';";
 $trans["biblioFieldsOpacFlg"]      = "\$text = 'Show in OPAC';";
-$trans["PictDesc"]                 = "\$text = 'Image files must be located in the openbiblio/pictures directory.';";
+$trans["PictDesc"]                 = "\$text = 'Image files must be located in the ausleihe on data.rabenspass.de directory.';";
 
 #****************************************************************************
 #*  Translation text for page biblio_new.php

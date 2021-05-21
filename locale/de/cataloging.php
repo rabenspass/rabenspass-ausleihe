@@ -67,7 +67,7 @@ $trans["biblioFieldsCollection"]   = "\$text = 'Genre';";
 $trans["biblioFieldsCallNmbr"]     = "\$text = 'Standort';";
 $trans["biblioFieldsUsmarcFields"] = "\$text = 'Beschreibungsfelder (nach USMarc)';";
 $trans["biblioFieldsOpacFlg"]      = "\$text = 'Anzeige im OPAC';";
-$trans["PictDesc"]                 = "\$text = 'Die Bilddatei muﬂ sich im Verzeichnis openbiblio/pictures befinden.';";
+$trans["PictDesc"]                 = "\$text = 'Die Bilddatei muﬂ sich im Verzeichnis ausleihe auf data.rabenspass.de befinden.';";
 
 #****************************************************************************
 #*  Translation text for page biblio_new.php
