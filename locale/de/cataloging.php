@@ -65,7 +65,7 @@ $trans["biblioFieldsLabel"]        = "\$text = 'Medium';";
 $trans["biblioFieldsMaterialTyp"]  = "\$text = 'Medienart';";
 $trans["biblioFieldsCollection"]   = "\$text = 'Genre';";
 $trans["biblioFieldsCallNmbr"]     = "\$text = 'Standort';";
-$trans["biblioFieldsUsmarcFields"] = "\$text = 'Beschreibungsfelder (nach USMarc)';";
+$trans["biblioFieldsUsmarcFields"] = "\$text = 'Beschreibungsfelder';";
 $trans["biblioFieldsOpacFlg"]      = "\$text = 'Anzeige im OPAC';";
 $trans["PictDesc"]                 = "\$text = 'Die Bilddatei muss sich im Verzeichnis ausleihe auf data.rabenspass.de befinden.';";
 
@@ -85,7 +85,7 @@ $trans["biblioEditSuccess"]        = "\$text = 'Das Medium wurde erfolgreich akt
 #****************************************************************************
 $trans["biblioCopyNewFormLabel"]   = "\$text = 'Fuege neues Exemplar hinzu';";
 $trans["biblioCopyNewBarcode"]     = "\$text = 'Mediennummer';";
-$trans["biblioCopyNewDesc"]        = "\$text = 'Beschreibung';";
+$trans["biblioCopyNewDesc"]        = "\$text = 'Zustand';";
 $trans["biblioCopyNewAuto"]        = "\$text = 'Autom. generieren';";
 $trans["biblioCopyNewValidBarco"]  = "\$text = 'ueberpruefen';";
 $trans["biblioCopyEditFormLabel"]  = "\$text = 'Exemplar bearbeiten';";

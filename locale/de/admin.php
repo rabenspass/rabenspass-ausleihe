@@ -74,7 +74,7 @@ $trans["adminCollections_editEnd"]                 = "\$text = ', wurde aktualis
 #*  Translation text for page collections_edit_form.php
 #****************************************************************************
 $trans["adminCollections_edit_formEditcollection"]                 = "\$text = 'Bearbeite Genre:';";
-$trans["adminCollections_edit_formDescription"]                 = "\$text = 'Beschreibung:';";
+$trans["adminCollections_edit_formDescription"]                 = "\$text = 'Zustand:';";
 $trans["adminCollections_edit_formDaysdueback"]                 = "\$text = 'Ausleihdauer in Tagen:';";
 $trans["adminCollections_edit_formDailyLateFee"]                 = "\$text = 'Taegliche Versaeumnisgebuehr:';";
 $trans["adminCollections_edit_formNote"]                 = "\$text = '*Bemerkung:';";
