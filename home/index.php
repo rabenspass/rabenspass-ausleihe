@@ -17,7 +17,7 @@
 
 <button type="button" class="btn btn-secondary"><a href="/opac/">Katalog & Suche</a></button></br>
 <button type="button" class="btn btn-info"><a href="/opac/loginform.php">Login in Self-Service Portal</a></button></br>
-<button type="button" class="btn btn-alert"><a href="/circ/">Ausgabeportal f&uuml;r Mitarbeitende</a></button>
+<button type="button" class="btn btn-danger"><a href="/circ/">Ausgabeportal f&uuml;r Mitarbeitende</a></button>
 
 
 <?php include("../shared/footer.php"); ?>
