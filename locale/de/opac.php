@@ -38,13 +38,13 @@
 #****************************************************************************
 #*  Translation text for page index.php
 #****************************************************************************
-$trans["opac_Header"]        = "\$text='Onlinekatalog (OPAC)';";
+$trans["opac_Header"]        = "\$text='Onlinekatalog';";
 $trans["opac_WelcomeMsg"]    = "\$text=
-'Willkommen im Onlinekatalog unserer Bibliothek. Durchsuchen Sie unseren Katalog nach Informationen ueber die Medien in unserem Bestand.';";
-$trans["opac_SearchTitle"]   = "\$text='Suche Medium durch:';";
+'Willkommen im Onlinekatalog. Durchsuchen Sie unseren Katalog nach Informationen unseren Bestand.<br /> Den kompletten Bestand finden sie ueber die Eingabe >>Lager<< bei der Suche nach Standort';";
+$trans["opac_SearchTitle"]   = "\$text='Suche:';";
 $trans["opac_Keyword"]       = "\$text='Suchbegriff';";
 $trans["opac_Title"]         = "\$text='Titel';";
-$trans["opac_Author"]        = "\$text='Autor';";
+$trans["opac_Author"]        = "\$text='Hersteller';";
 $trans["opac_Subject"]       = "\$text='Schlagwort';";
 $trans["opac_Callno"]        = "\$text='Standort';";
 $trans["opac_Search"]        = "\$text='Suche';";
@@ -54,14 +54,14 @@ $trans["opac_Search"]        = "\$text='Suche';";
 #****************************************************************************
 $trans["loginFormTbleHdr"]         = "\$text = 'Benutzer Login';";
 $trans["MemberID"]        	   = "\$text = 'Benutzernummer';";
-$trans["Secret Word"]	           = "\$text = 'Geheimwort';";
+$trans["Secret Word"]	           = "\$text = 'Kennwort';";
 $trans["loginFormLogin"]           = "\$text = 'Login';";
 
 #****************************************************************************
 #*  Translation text for page login.php
 #****************************************************************************
 $trans["MemberID is required."]    = "\$text = 'Benutzernummer erforderlich';";
-$trans["Secret Word is required."] = "\$text = 'Geheimwort erforderlich';";
+$trans["Secret Word is required."] = "\$text = 'Kennwort erforderlich';";
 $trans["No Memberfield 'secret' defined. Member-Login is deactivated!"]	= "\$text = 'Kein Mitgliederfeld 'secret' ist eingerichtet. Der Benutzerlogin wurde deaktiviert.';";
 $trans["Invalid Logon. Maybe you don't have a Secret Word? Please ask the Staff!"] = "\$text = 'Falsches Login. Eventuell haben Sie noch kein Geheimwort eingerichtet? Sprechen Sie bitte das Personal an!';";
 
