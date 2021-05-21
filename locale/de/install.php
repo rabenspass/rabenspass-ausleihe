@@ -43,7 +43,7 @@ $trans["installHeadline"]        = "\$text='OpenBiblio Installation:';";
 #****************************************************************************
 #*  Translation text for page cancel_msg.php
 #****************************************************************************
-$trans["cancelMessage"]         = "\$text='Der OpenBiblio-Installationsprozeß wurde angehalten.';";
+$trans["cancelMessage"]         = "\$text='Der OpenBiblio-Installationsprozeï¿½ wurde angehalten.';";
 $trans["cancelShow"]            = "\$text='Zeige Installationsanleitung';";
 
 #****************************************************************************
@@ -56,10 +56,10 @@ $trans["indexInstInstr"]        = "\$text='der Installationsanleitung';";
 $trans["indexInstr1"]           = "\$text='Erstellen Sie die OpenBiblio Datenbank';";
 $trans["indexInstr2"]           = "\$text='Erstellen Sie den OpenBiblio Datenbank-Benutzer';";
 $trans["indexInstr3"]           = "\$text='Updaten Sie openbibilio/database_constants.php mit dem angelegeten Datenbank-Benutzername und Passwort';";
-$trans["indexInstr4"]           = "\$text='Schauen Sie f&uuml;r mehr Details auch';";
+$trans["indexInstr4"]           = "\$text='Schauen Sie fuer mehr Details auch';";
 $trans["indexInstr5"]           = "\$text='die Installationsanleitung';";
 $trans["indexInstr6"]           = "\$text='an.';";
-$trans["indexStart"]            = "\$text='Die Datenbankverbindung ist ok. Bitte w&auml;hlen Sie eine Sprache aus und dr&uuml;cken Sie den Installiere-Knopf.';";
+$trans["indexStart"]            = "\$text='Die Datenbankverbindung ist ok. Bitte waehlen Sie eine Sprache aus und druecken Sie den Installiere-Knopf.';";
 $trans["indexLang"]             = "\$text='Sprache:';";
 $trans["indexTest"]             = "\$text='Installiere Testdaten:';";
 $trans["indexInstall"]          = "\$text='Installiere';";
@@ -77,14 +77,14 @@ $trans["FuncsErr1"]             = "\$text='Fehler beim Lesen von';";
 #****************************************************************************
 $trans["installOK"]             = "\$text='Die Verbindung zur Datenbank ist ok.';";
 $trans["installCreate"]         = "\$text='Erstelle OpenBiblio Tabellen...';";
-$trans["installAlready"]        = "\$text='ist bereits installiert. Sind Sie sicher, daß sie alle Daten l&ouml;schen und neue Tabellen erstellen wollen?';";
+$trans["installAlready"]        = "\$text='ist bereits installiert. Sind Sie sicher, daï¿½ sie alle Daten loeschen und neue Tabellen erstellen wollen?';";
 $trans["installCont"]           = "\$text='Weiter';";
 $trans["installStop"]           = "\$text='Abbrechen';";
 $trans["installTable"]          = "\$text='Tabelle ';";
-$trans["installDel"]            = "\$text=' gel&ouml;scht';";
+$trans["installDel"]            = "\$text=' geloescht';";
 $trans["installTaCrea"]         = "\$text=' erstellt';";
-$trans["installTable2"]         = "\$text='Daten f&uuml;r die Tabelle ';";
-$trans["installIns"]            = "\$text=' eingef&uuml;gt.';";
+$trans["installTable2"]         = "\$text='Daten fuer die Tabelle ';";
+$trans["installIns"]            = "\$text=' eingefuegt.';";
 $trans["installReady1"]         = "\$text='Die OpenBiblio Tabellen wurden erfolreich erstellt!';";
 $trans["installReady2"]         = "\$text='benutze OpenBiblio';";
 
@@ -94,26 +94,26 @@ $trans["installReady2"]         = "\$text='benutze OpenBiblio';";
 $trans["UpdateHead"]            = "\$text='OpenBiblio Update:';";
 $trans["UpdateOK"]              = "\$text='Die Datenbank-Verbindung ist ok!';";
 $trans["UpdateErr1"]            = "\$text='Version 0.3.0 der OpenBiblio Daten konnte nicht gefunden werden.';";
-$trans["UpdateAlready"]         = "\$text='ist derzeit installiert. Sind Sie sicher, daß Sie alle Daten zu Version 0.4.0 konvertieren wollen?';";
+$trans["UpdateAlready"]         = "\$text='ist derzeit installiert. Sind Sie sicher, daï¿½ Sie alle Daten zu Version 0.4.0 konvertieren wollen?';";
 $trans["UpdateCont"]            = "\$text='Weiter';";
 $trans["UpdateStop"]            = "\$text='Abbrechen';";
 $trans["UpdateTable"]           = "\$text='Tabelle ';";
-$trans["UpdateDel"]             = "\$text=' gel&ouml;scht';";
+$trans["UpdateDel"]             = "\$text=' geloescht';";
 $trans["UpdateTaCrea"]          = "\$text=' erstellt';";
-$trans["UpdateTable2"]          = "\$text='Daten f&uuml;r die Tabelle ';";
-$trans["UpdateIns"]             = "\$text=' eingef&uuml;gt.';";
+$trans["UpdateTable2"]          = "\$text='Daten fuer die Tabelle ';";
+$trans["UpdateIns"]             = "\$text=' eingefuegt.';";
 $trans["UpdateConv1"]           = "\$text='Medien-Tabellen konvertiert.';";
 $trans["UpdateConv2"]           = "\$text='Exemplartabelle konvertiert.';";
 $trans["UpdateConv3"]           = "\$text='Benutzer Tabelle konvertiert.';";
-$trans["UpdateConv4"]           = "\$text='Neue Mitarbeiter Tabelle, Zeilen gel&ouml;scht.';";
+$trans["UpdateConv4"]           = "\$text='Neue Mitarbeiter Tabelle, Zeilen geloescht.';";
 $trans["UpdateConv5"]           = "\$text='Mitarbeiter Tabelle konvertiert.';";
-$trans["UpdateConv6"]           = "\$text='Neue Genre Tabelle, Zeilen gel&ouml;scht.';";
+$trans["UpdateConv6"]           = "\$text='Neue Genre Tabelle, Zeilen geloescht.';";
 $trans["UpdateConv7"]           = "\$text='Genre Tabelle konvertiert.';";
-$trans["UpdateConv8"]           = "\$text='Neue Medientyp Tabelle, Zeilen gel&ouml;scht.';";
+$trans["UpdateConv8"]           = "\$text='Neue Medientyp Tabelle, Zeilen geloescht.';";
 $trans["UpdateConv9"]           = "\$text='Medientyp Tabelle konvertiert.';";
-$trans["UpdateConv10"]          = "\$text='Neue Einstellungentabelle, Zeilen gel&ouml;scht.';";
+$trans["UpdateConv10"]          = "\$text='Neue Einstellungentabelle, Zeilen geloescht.';";
 $trans["UpdateConv11"]          = "\$text='Einstellungen Tabelle konvertiert.';";
-$trans["UpdateConv12"]          = "\$text='Statustabelle wurde gel&ouml;scht.';";
+$trans["UpdateConv12"]          = "\$text='Statustabelle wurde geloescht.';";
 $trans["UpdateRename"]          = "\$text=' umbenannt in ';";
 $trans["UpdateReady1"]          = "\$text='Die OpenBiblio Tabellen wurden erfolreich erstellt!';";
 $trans["UpdateReady2"]          = "\$text='benutze OpenBiblio';";

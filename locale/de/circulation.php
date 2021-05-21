@@ -38,9 +38,9 @@
 #*  Common translation text shared among multiple pages
 #****************************************************************************
 $trans["circCancel"]              = "\$text = 'Abbrechen';";
-$trans["circDelete"]              = "\$text = 'L&ouml;schen';";
+$trans["circDelete"]              = "\$text = 'Loeschen';";
 $trans["circLogout"]              = "\$text = 'Ausloggen';";
-$trans["circAdd"]                 = "\$text = 'Hinzuf&uuml;gen';";
+$trans["circAdd"]                 = "\$text = 'Hinzufuegen';";
 $trans["mbrDupBarcode"]           = "\$text = 'Mediennummer, %barcode%, ist schon in Benutzung.';";
 
 #****************************************************************************
@@ -57,7 +57,7 @@ $trans["indexName"]               = "\$text='Nachname beginnt mit:';";
 #*  Translation text for page mbr_new_form.php, mbr_edit_form.php and mbr_fields.php, mbr_search.php
 #****************************************************************************
 $trans["Mailing Address:"] 	  = "\$text='Postanschrift:';";
-$trans["mbrNewForm"]              = "\$text='F&uuml;ge hinzu neuen';";
+$trans["mbrNewForm"]              = "\$text='Fuege hinzu neuen';";
 $trans["mbrEditForm"]             = "\$text='Bearbeite';";
 $trans["mbrFldsHeader"]           = "\$text='Benutzer:';";
 $trans["mbrFldsCardNmbr"]         = "\$text='Benutzernummer:';";
@@ -74,7 +74,7 @@ $trans["mbrFldsClassify"]         = "\$text='Klassifikation:';";
 $trans["mbrFldsGrade"]            = "\$text='Schulklasse:';";
 $trans["mbrFldsTeacher"]          = "\$text='Klassenlehrer:';";
 $trans["mbrFldsMbrShip"]          = "\$text='bezahlt bis (jjjj-mm-dd):';";
-$trans["mbrFldsSubmit"]           = "\$text='&Uuml;bermitteln';";
+$trans["mbrFldsSubmit"]           = "\$text='Uebermitteln';";
 $trans["mbrFldsCancel"]           = "\$text='Abbrechen';";
 $trans["mbrsearchResult"]         = "\$text='Ergebnisseiten: ';";
 $trans["mbrsearchprev"]           = "\$text='vor';";
@@ -90,14 +90,14 @@ $trans["mbrsearchClassification"] = "\$text='Klassifikation:';";
 #****************************************************************************
 #*  Translation text for page mbr_new.php
 #****************************************************************************
-$trans["mbrNewSuccess"]           = "\$text='Benutzer wurde erfolgreich hinzugef&uuml;gt.';";
+$trans["mbrNewSuccess"]           = "\$text='Benutzer wurde erfolgreich hinzugefuegt.';";
 
 #****************************************************************************
 #*  Translation text for page mbr_edit.php
 #****************************************************************************
 $trans["mbrEditSuccess"]          = "\$text='Benutzer wurde erfolgreich aktualisiert.';";
-$trans["mbrRenewSuccess"]         = "\$text='Die Mitgliedschaft wurde erfolgreich um %length% Monate verl&auml;ngert.';";
-$trans["All items renewed."]      = "\$text='Alle Medien verl&auml;ngert.';";
+$trans["mbrRenewSuccess"]         = "\$text='Die Mitgliedschaft wurde erfolgreich um %length% Monate verlaengert.';";
+$trans["All items renewed."]      = "\$text='Alle Medien verlaengert.';";
 
 #****************************************************************************
 #*  Translation text for page mbr_view.php
@@ -120,7 +120,7 @@ $trans["mbrViewStatColHdr1"]      = "\$text='Medienart';";
 $trans["mbrViewStatColHdr2"]      = "\$text='Anzahl';";
 $trans["mbrViewStatColHdr3"]      = "\$text='Limits';";
 $trans["mbrViewStatColHdr4"]      = "\$text='Ausleihe';";
-$trans["mbrViewStatColHdr5"]      = "\$text='Verl&auml;ngerung';";
+$trans["mbrViewStatColHdr5"]      = "\$text='Verlaengerung';";
 $trans["mbrViewHead3"]            = "\$text='Medienausleihe:';";
 $trans["mbrViewBarcode"]          = "\$text='Mediennummer:';";
 $trans["mbrViewCheckOut"]         = "\$text='Ausleihen';";
@@ -130,13 +130,13 @@ $trans["mbrViewOutHdr2"]          = "\$text='Medienart';";
 $trans["mbrViewOutHdr3"]          = "\$text='Mediennummer';";
 $trans["mbrViewOutHdr4"]          = "\$text='Titel';";
 $trans["mbrViewOutHdr5"]          = "\$text='Autor';";
-$trans["mbrViewOutHdr6"]          = "\$text='R&uuml;ckgabe';";
-$trans["mbrViewOutHdr7"]          = "\$text='&uuml;berf&auml;llige<br>Tage';";
-$trans["mbrViewOutHdr8"]          = "\$text='Verl&auml;ngerungen';";
+$trans["mbrViewOutHdr6"]          = "\$text='Rueckgabe';";
+$trans["mbrViewOutHdr7"]          = "\$text='ueberfaellige<br>Tage';";
+$trans["mbrViewOutHdr8"]          = "\$text='Verlaengerungen';";
 $trans["mbrViewOutHdr9"]          = "\$text='Mal';";
-$trans["mbrViewOutHdr10"]         = "\$text='R&uuml;ckgabe';";
+$trans["mbrViewOutHdr10"]         = "\$text='Rueckgabe';";
 $trans["To Shelving Cart"]        = "\$text='In Eingangsablage';";
-$trans["Renew item"]              = "\$text='Verl&auml;ngere Medium';";
+$trans["Renew item"]              = "\$text='Verlaengere Medium';";
 $trans["mbrViewNoCheckouts"]      = "\$text='Derzeit keine Medien ausgeliehen.';";
 $trans["mbrViewHead5"]            = "\$text='Vorbestellen:';";
 $trans["mbrViewHead6"]            = "\$text='Derzeit vorbestellte Medien:';";
@@ -148,69 +148,69 @@ $trans["mbrViewHoldHdr4"]         = "\$text='Mediennummer';";
 $trans["mbrViewHoldHdr5"]         = "\$text='Titel';";
 $trans["mbrViewHoldHdr6"]         = "\$text='Autor';";
 $trans["mbrViewHoldHdr7"]         = "\$text='Status';";
-$trans["mbrViewHoldHdr8"]         = "\$text='R&uuml;ckgabe';";
+$trans["mbrViewHoldHdr8"]         = "\$text='Rueckgabe';";
 $trans["mbrViewNoHolds"]          = "\$text='Derzeit keine Medien vorbestellt.';";
-$trans["mbrViewBalMsg"]           = "\$text='Bemerkung: Benutzer hat ausstehende Geb&uuml;hren von %bal%.';";
+$trans["mbrViewBalMsg"]           = "\$text='Bemerkung: Benutzer hat ausstehende Gebuehren von %bal%.';";
 $trans["mbrViewShipEnd"]          = "\$text='Achtung: Die Mitgliedschaft des Mitglieds ist abgelaufen!';";
 $trans["mbrPrintCheckouts"]	  = "\$text='Ausgeliehene Medien drucken';";
-$trans["Renew All"]	  	  = "\$text='Alle Medien verl&auml;ngern';";
-$trans["mbrViewDel"]              = "\$text='L&ouml;sche';";
-$trans["mbrViewRenew1"]           = "\$text='Verl&auml;ngere Mitgliedschaft um';";
+$trans["Renew All"]	  	  = "\$text='Alle Medien verlaengern';";
+$trans["mbrViewDel"]              = "\$text='Loesche';";
+$trans["mbrViewRenew1"]           = "\$text='Verlaengere Mitgliedschaft um';";
 $trans["mbrViewRenew2"]           = "\$text='Monat(e).<br>Ab heute bzw. ab dem Bezahlt-bis-Datum, wenn es in der Zukunft liegt.';";
-$trans["Due Date:"]               = "\$text='R&uuml;ckgabedatum';";
-$trans["Override Due Date"]       = "\$text='R&uuml;ckgabedatum manuell &auml;ndern';";
+$trans["Due Date:"]               = "\$text='Rueckgabedatum';";
+$trans["Override Due Date"]       = "\$text='Rueckgabedatum manuell aendern';";
 $trans["Cancel"]                  = "\$text='Abbrechen';";
 
 #****************************************************************************
 #*  Translation text for page checkout.php
 #****************************************************************************
-$trans["checkoutBalErr"]          = "\$text='Der Benutzer muß ausstehende Geb&uuml;hren zahlen, bevor er ausleihen darf.';";
-$trans["checkoutEndErr"]          = "\$text='Der Benutzer muß die Mitgliedschaft verl&auml;ngern, bevor er ausleihen darf.';";
+$trans["checkoutBalErr"]          = "\$text='Der Benutzer muï¿½ ausstehende Guel;hren zahlen, bevor er ausleihen darf.';";
+$trans["checkoutEndErr"]          = "\$text='Der Benutzer muï¿½ die Mitgliedschaft verlaengern, bevor er ausleihen darf.';";
 $trans["checkoutErr1"]            = "\$text='Die Mediennummer darf nur aus Zahlen und Buchstaben bestehen.';";
 $trans["checkoutErr2"]            = "\$text='Kein Medium mit dieser Nummer wurde gefunden.';";
 $trans["checkoutErr3"]            = "\$text='Das Medium mit der Nummer %barcode% ist bereits ausgeliehen.';";
 $trans["checkoutErr4"]            = "\$text='Das Medium mit der Nummer %barcode% kann nicht ausgeliehen werden.';";
 $trans["checkoutErr5"]            = "\$text='Das Medium mit der Nummer %barcode% wurde von einem anderen Benutzer vorbestellt.';";
-$trans["checkoutErr6"]            = "\$text='Der Benutzer hat das Ausleihlimit f&uuml;r diese Medienart bereits erreicht.';";
-$trans["checkoutErr7"]            = "\$text='Das Medium mit der Nummer %barcode% kann vom Benutzer nicht nochmal verl&auml;ngert werden.';";
-$trans["checkoutErr8"]            = "\$text='Das Medium mit der Nummer %barcode% kann nicht verl&auml;ngert werden, weil es schon versp&auml;tet ist.';";
+$trans["checkoutErr6"]            = "\$text='Der Benutzer hat das Ausleihlimit fuer diese Medienart bereits erreicht.';";
+$trans["checkoutErr7"]            = "\$text='Das Medium mit der Nummer %barcode% kann vom Benutzer nicht nochmal verlaengert werden.';";
+$trans["checkoutErr8"]            = "\$text='Das Medium mit der Nummer %barcode% kann nicht verlaengert werden, weil es schon verspaetet ist.';";
 
 #****************************************************************************
 #*  Translation text for page shelving_cart.php
 #****************************************************************************
 $trans["shelvingCartErr1"]        = "\$text='Die Mediennummer darf nur aus Zahlen und Buchstaben bestehen.';";
 $trans["shelvingCartErr2"]        = "\$text='Kein Medium mit dieser Nummer wurde gefunden.';";
-$trans["shelvingCartTrans"]       = "\$text='Vers&auml;umnisgeb&uuml;hr (Nummer=%barcode%)';";
+$trans["shelvingCartTrans"]       = "\$text='Versaeumnisgebuehr (Nummer=%barcode%)';";
 
 #****************************************************************************
 #*  Translation text for page checkin_form.php
 #****************************************************************************
-$trans["checkinFormHdr1"]         = "\$text='Medienr&uuml;ckgabe:';";
+$trans["checkinFormHdr1"]         = "\$text='Medienrueckgabe:';";
 $trans["checkinFormBarcode"]      = "\$text='Mediennummer:';";
 $trans["checkinFormShelveButton"] = "\$text='Stelle in Eingangsablage';";
-$trans["checkinFormCheckinLink1"] = "\$text='Augew&auml;hlte Medien einbuchen';";
+$trans["checkinFormCheckinLink1"] = "\$text='Augewaehlte Medien einbuchen';";
 $trans["checkinFormCheckinLink2"] = "\$text='Alle Medien einbuchen';";
 $trans["checkinFormHdr2"]         = "\$text='derzeitiger Inhalt der Eingangsablage:';";
-$trans["checkinFormColHdr1"]      = "\$text='R&uuml;ckgabedatum';";
+$trans["checkinFormColHdr1"]      = "\$text='Rueckgabedatum';";
 $trans["checkinFormColHdr2"]      = "\$text='Mediennummer';";
 $trans["checkinFormColHdr3"]      = "\$text='Titel';";
 $trans["checkinFormColHdr4"]      = "\$text='Autor';";
 $trans["checkinFormEmptyCart"]    = "\$text='Derzeit sind keine Medien im Eingangsregal.';";
-$trans["Checked in %barcode% for "]    = "\$text='Exemplar %barcode% zur&uuml;ckgenommen von ';";
-$trans["Checked in %barcode%."]   = "\$text='Exemplar %barcode% zur&uuml;ckgenommen.';";
-$trans["checkinEndErr"]          = "\$text='Die Mitgliedschaft ist abgelaufen. Das Mitglied muss entweder die Mitgliedschaft verl&auml;ngern oder f&uuml;r %monthlate% Monate nachzahlen.';";
+$trans["Checked in %barcode% for "]    = "\$text='Exemplar %barcode% zurueckgenommen von ';";
+$trans["Checked in %barcode%."]   = "\$text='Exemplar %barcode% zurueckgenommen.';";
+$trans["checkinEndErr"]          = "\$text='Die Mitgliedschaft ist abgelaufen. Das Mitglied muss entweder die Mitgliedschaft verlaengern oder fuer %monthlate% Monate nachzahlen.';";
 
 #****************************************************************************
 #*  Translation text for page checkin.php
 #****************************************************************************
-$trans["checkinErr1"]             = "\$text='Keine Medien wurden ausgew&auml;hlt.';";
+$trans["checkinErr1"]             = "\$text='Keine Medien wurden ausgewaehlt.';";
 
 #****************************************************************************
 #*  Translation text for page hold_message.php
 #****************************************************************************
 $trans["holdMessageHdr"]          = "\$text='Medium wurde vorbestellt!';";
-$trans["holdMessageMsg1"]         = "\$text='Das Medium mit der Mediennummer %barcode% welches Sie eincecken wollen wurde vorbestellt. <b>Bitte das Medium ins Vorbestellfach legen und nicht in die Eingangsablage.</b> Der Statuscode des Medium wurde auf vorbestellt ge&auml;ndert.';";
-$trans["holdMessageMsg2"]         = "\$text='Kehre zur Medienr&uuml;ckgabe zur&uuml;ck.';";
+$trans["holdMessageMsg1"]         = "\$text='Das Medium mit der Mediennummer %barcode% welches Sie eincecken wollen wurde vorbestellt. <b>Bitte das Medium ins Vorbestellfach legen und nicht in die Eingangsablage.</b> Der Statuscode des Medium wurde auf vorbestellt geaendert.';";
+$trans["holdMessageMsg2"]         = "\$text='Kehre zur Medienrueckgabe zurueck.';";
 
 #****************************************************************************
 #*  Translation text for page place_hold.php
@@ -223,15 +223,15 @@ $trans["This item is not checked out or on hold."]           = "\$text='Dieses E
 #****************************************************************************
 #*  Translation text for page mbr_del_confirm.php
 #****************************************************************************
-$trans["mbrDelConfirmWarn"]       = "\$text = 'Der Benutzer, %name%, hat %checkoutCount% Ausleihe(n) und %holdCount% Vorbestellung(en). Alle ausgeliehenen Medien m&uuml;ssen zur&uuml;ckgegeben und alle Vorbestellungen gel&ouml;scht werden, um den Benutzer zu l&ouml;schen.';";
-$trans["mbrDelConfirmReturn"]     = "\$text = 'Kehre zur Benutzerinformation zur&uuml;ck';";
-$trans["mbrDelConfirmMsg"]        = "\$text = 'Sind sie sicher, daß sie den Benutzer %name% l&ouml;schen wollen? Dieses wird auch die Ausleihhistory von ihm l&ouml;schen.';";
+$trans["mbrDelConfirmWarn"]       = "\$text = 'Der Benutzer, %name%, hat %checkoutCount% Ausleihe(n) und %holdCount% Vorbestellung(en). Alle ausgeliehenen Medien muessen zurueckgegeben und alle Vorbestellungen geloescht werden, um den Benutzer zu loeschen.';";
+$trans["mbrDelConfirmReturn"]     = "\$text = 'Kehre zur Benutzerinformation zurueck';";
+$trans["mbrDelConfirmMsg"]        = "\$text = 'Sind sie sicher, daï¿½ sie den Benutzer %name% loeschen wollen? Dieses wird auch die Ausleihhistory von ihm loeschen.';";
 
 #****************************************************************************
 #*  Translation text for page mbr_del.php
 #****************************************************************************
-$trans["mbrDelSuccess"]           = "\$text='Der Benutzer, %name%, wurde gel&ouml;scht.';";
-$trans["mbrDelReturn"]            = "\$text='kehre zur Benutzersuche zur&uuml;ck';";
+$trans["mbrDelSuccess"]           = "\$text='Der Benutzer, %name%, wurde geloescht.';";
+$trans["mbrDelReturn"]            = "\$text='kehre zur Benutzersuche zurueck';";
 
 #****************************************************************************
 #*  Translation text for page mbr_history.php
@@ -242,20 +242,20 @@ $trans["mbrHistoryHdr1"]          = "\$text='Mediennummer';";
 $trans["mbrHistoryHdr2"]          = "\$text='Titel';";
 $trans["mbrHistoryHdr3"]          = "\$text='Autor';";
 $trans["mbrHistoryHdr4"]          = "\$text='Aktueller Status';";
-$trans["mbrHistoryHdr5"]          = "\$text='Datum der Status&auml;nderung';";
-$trans["mbrHistoryHdr6"]          = "\$text='R&uuml;ckgabedatum';";
+$trans["mbrHistoryHdr5"]          = "\$text='Datum der Statusaenderung';";
+$trans["mbrHistoryHdr6"]          = "\$text='Rueckgabedatum';";
 
 #****************************************************************************
 #*  Translation text for page mbr_account.php
 #****************************************************************************
-$trans["mbrAccountLabel"]         = "\$text='F&uuml;ge eine Transaktion hinzu:';";
+$trans["mbrAccountLabel"]         = "\$text='Fuege eine Transaktion hinzu:';";
 $trans["mbrAccountTransTyp"]      = "\$text='Transaktions Typ:';";
 $trans["mbrAccountAmount"]        = "\$text='Betrag:';";
 $trans["mbrAccountDesc"]          = "\$text='Beschreibung:';";
 $trans["mbrAccountHead1"]         = "\$text='Transaktionen des Benutzers:';";
 $trans["mbrAccountNoTrans"]       = "\$text='Keine Transaktionen gefunden.';";
 $trans["mbrAccountOpenBal"]       = "\$text='Offener Betrag';";
-$trans["mbrAccountDel"]           = "\$text='L&ouml;sche';";
+$trans["mbrAccountDel"]           = "\$text='Loesche';";
 $trans["mbrAccountHdr1"]          = "\$text='Funktion';";
 $trans["mbrAccountHdr2"]          = "\$text='Datum';";
 $trans["mbrAccountHdr3"]          = "\$text='Trans. Typ';";
@@ -266,17 +266,17 @@ $trans["mbrAccountHdr6"]          = "\$text='Kontostand';";
 #****************************************************************************
 #*  Translation text for page mbr_transaction.php
 #****************************************************************************
-$trans["mbrTransactionSuccess"]   = "\$text='Transaktion erfolgreich durchgef&uuml;hrt.';";
+$trans["mbrTransactionSuccess"]   = "\$text='Transaktion erfolgreich durchgefuehrt.';";
 
 #****************************************************************************
 #*  Translation text for page mbr_transaction_del_confirm.php
 #****************************************************************************
-$trans["mbrTransDelConfirmMsg"]   = "\$text='Sind Sie sicher, daß Sie die Transaktion l&ouml;schen wollen?';";
+$trans["mbrTransDelConfirmMsg"]   = "\$text='Sind Sie sicher, daï¿½ Sie die Transaktion loeschen wollen?';";
 
 #****************************************************************************
 #*  Translation text for page mbr_transaction_del.php
 #****************************************************************************
-$trans["mbrTransactionDelSuccess"] = "\$text='Transaktion erfolgreich gel&ouml;scht.';";
+$trans["mbrTransactionDelSuccess"] = "\$text='Transaktion erfolgreich geloescht.';";
 
 #****************************************************************************
 #*  Translation text for page mbr_print_checkouts.php
@@ -286,7 +286,7 @@ $trans["mbrPrintCheckoutsHdr1"]   = "\$text='Aktuelles Datum:';";
 $trans["mbrPrintCheckoutsHdr2"]   = "\$text='Benutzer:';";
 $trans["mbrPrintCheckoutsHdr3"]   = "\$text='Benutzernummer:';";
 $trans["mbrPrintCheckoutsHdr4"]   = "\$text='Klassifikation:';";
-$trans["mbrPrintCloseWindow"]     = "\$text='Schließe Fenster';";
+$trans["mbrPrintCloseWindow"]     = "\$text='Schlieï¿½e Fenster';";
 
 #****************************************************************************
 #*  Translation text for page noauth.php
@@ -302,10 +302,10 @@ $trans["Date:"]     = "\$text='Datum:';";
 $trans["Command File:"]     = "\$text='Kommandodatei:';";
 $trans["Bad upload file: Expected a command code, but didn't get one"]     = "\$text='Fehlerhafte Datei: Kommandocode erwartet, aber keinen erhalten';";
 $trans["Couldn't check out %item% to %member%: %error%"]     = "\$text='Konnte Exemplar %item% an %member% nicht ausleihen: %error%';";
-$trans["Couldn't check in %item%: %error%"]     = "\$text='Konnte Exemplar %item% nicht zur&uuml;cknehmen: %error%';";
+$trans["Couldn't check in %item%: %error%"]     = "\$text='Konnte Exemplar %item% nicht zuruecknehmen: %error%';";
 $trans["Unrecognized command code: %cmd%"]     = "\$text='Nicht erkanntes Kommando: %cmd%';";
-$trans["Command Sheet"]     = "\$text='Kommando&uuml;bersichtsblatt';";
-$trans["Actions which did not produce an error have completed. Think carefully before uploading the same file again, or some circulations may be recorded twice."]     = "\$text='Aktionen die keinen Fehler produzieren wurden ausgef&uuml;hrt. Passen Sie auf, dass Sie keine Datei doppelt hochladen, da sonst einige Ausleihen doppelt erfasst werden.';";
+$trans["Command Sheet"]     = "\$text='Kommandouebersichtsblatt';";
+$trans["Actions which did not produce an error have completed. Think carefully before uploading the same file again, or some circulations may be recorded twice."]     = "\$text='Aktionen die keinen Fehler produzieren wurden ausgefuehrt. Passen Sie auf, dass Sie keine Datei doppelt hochladen, da sonst einige Ausleihen doppelt erfasst werden.';";
 $trans["Errors"]     = "\$text='Fehler';";
 $trans["Offline Upload Successful."]     = "\$text='Offline Hochladeaktion erfolgreich.';";
 

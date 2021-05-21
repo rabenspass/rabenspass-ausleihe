@@ -37,11 +37,11 @@
 #****************************************************************************
 #*  Common translation text shared among multiple pages
 #****************************************************************************
-$trans["catalogSubmit"]            = "\$text = '&Uuml;bermittle';";
+$trans["catalogSubmit"]            = "\$text = 'Uebermittle';";
 $trans["catalogCancel"]            = "\$text = 'Abbrechen';";
 $trans["catalogRefresh"]           = "\$text = 'Erneuern';";
-$trans["catalogDelete"]            = "\$text = 'L&ouml;schen';";
-$trans["catalogFootnote"]          = "\$text = 'Felder mit %symbol% sind ben&ouml;tigt.';";
+$trans["catalogDelete"]            = "\$text = 'Loeschen';";
+$trans["catalogFootnote"]          = "\$text = 'Felder mit %symbol% sind benoetigt.';";
 $trans["AnswerYes"]                = "\$text = 'Ja';";
 $trans["AnswerNo"]                 = "\$text = 'Nein';";
 
@@ -67,13 +67,13 @@ $trans["biblioFieldsCollection"]   = "\$text = 'Genre';";
 $trans["biblioFieldsCallNmbr"]     = "\$text = 'Standort';";
 $trans["biblioFieldsUsmarcFields"] = "\$text = 'Beschreibungsfelder (nach USMarc)';";
 $trans["biblioFieldsOpacFlg"]      = "\$text = 'Anzeige im OPAC';";
-$trans["PictDesc"]                 = "\$text = 'Die Bilddatei muß sich im Verzeichnis ausleihe auf data.rabenspass.de befinden.';";
+$trans["PictDesc"]                 = "\$text = 'Die Bilddatei muss sich im Verzeichnis ausleihe auf data.rabenspass.de befinden.';";
 
 #****************************************************************************
 #*  Translation text for page biblio_new.php
 #****************************************************************************
-$trans["biblioNewFormLabel"]       = "\$text = 'Neues hinzuf&uuml;gen';";
-$trans["biblioNewSuccess"]         = "\$text = 'Das folgende neue Medium wurde erstellt. Um ein Exemplar hinzuzuf&uuml;gen, w&auml;hle \"Neues Exemplar\" aus dem linken Navigationsbereich oder \"F&uuml;ge neues Exemplar hinzu\" aus der untenstehenden Information.';";
+$trans["biblioNewFormLabel"]       = "\$text = 'Neues hinzufuegen';";
+$trans["biblioNewSuccess"]         = "\$text = 'Das folgende neue Medium wurde erstellt. Um ein Exemplar hinzuzufuegen, waehle \"Neues Exemplar\" aus dem linken Navigationsbereich oder \"Fuege neues Exemplar hinzu\" aus der untenstehenden Information.';";
 
 #****************************************************************************
 #*  Translation text for page biblio_edit.php
@@ -83,11 +83,11 @@ $trans["biblioEditSuccess"]        = "\$text = 'Das Medium wurde erfolgreich akt
 #****************************************************************************
 #*  Translation text for page biblio_copy_new_form.php and biblio_copy_edit_form.php
 #****************************************************************************
-$trans["biblioCopyNewFormLabel"]   = "\$text = 'F&uuml;ge neues Exemplar hinzu';";
+$trans["biblioCopyNewFormLabel"]   = "\$text = 'Fuege neues Exemplar hinzu';";
 $trans["biblioCopyNewBarcode"]     = "\$text = 'Mediennummer';";
 $trans["biblioCopyNewDesc"]        = "\$text = 'Beschreibung';";
 $trans["biblioCopyNewAuto"]        = "\$text = 'Autom. generieren';";
-$trans["biblioCopyNewValidBarco"]  = "\$text = '&uuml;berpr&uuml;fen';";
+$trans["biblioCopyNewValidBarco"]  = "\$text = 'ueberpruefen';";
 $trans["biblioCopyEditFormLabel"]  = "\$text = 'Exemplar bearbeiten';";
 $trans["biblioCopyEditFormStatus"] = "\$text = 'Status';";
 
@@ -104,18 +104,18 @@ $trans["biblioCopyEditSuccess"]    = "\$text = 'Exemplar erfolgreich aktualisier
 #****************************************************************************
 #*  Translation text for page biblio_copy_del_confirm.php
 #****************************************************************************
-$trans["biblioCopyDelConfirmErr1"] = "\$text = 'Exemplar konnte nicht gel&ouml;scht werden. Das Exemplar darf nicht ausgeliehen sein.';";
-$trans["biblioCopyDelConfirmMsg"]  = "\$text = 'M&ouml;chten sie wirklich das Exemplar mit der Mediennummer %barcodeNmbr% l&ouml;schen? Dieses wird auch die Ausleihhistory &uuml;ber dieses Exemplar l&ouml;schen.';";
+$trans["biblioCopyDelConfirmErr1"] = "\$text = 'Exemplar konnte nicht geloescht werden. Das Exemplar darf nicht ausgeliehen sein.';";
+$trans["biblioCopyDelConfirmMsg"]  = "\$text = 'Moechten sie wirklich das Exemplar mit der Mediennummer %barcodeNmbr% loeschen? Dieses wird auch die Ausleihhistory ueber dieses Exemplar loeschen.';";
 
 #****************************************************************************
 #*  Translation text for page biblio_copy_del.php
 #****************************************************************************
-$trans["biblioCopyDelSuccess"]     = "\$text = 'Das Exemplar mit der Mediennummer %barcode% wurde erfolgreich gel&ouml;scht.';";
+$trans["biblioCopyDelSuccess"]     = "\$text = 'Das Exemplar mit der Mediennummer %barcode% wurde erfolgreich geloescht.';";
 
 #****************************************************************************
 #*  Translation text for page biblio_marc_list.php
 #****************************************************************************
-$trans["biblioMarcListMarcSelect"] = "\$text = 'F&uuml;ge neues MARC-Feld hinzu';";
+$trans["biblioMarcListMarcSelect"] = "\$text = 'Fuege neues MARC-Feld hinzu';";
 $trans["biblioMarcListHdr"]        = "\$text = 'MARC-Feld Information';";
 $trans["biblioMarcListTbleCol1"]   = "\$text = 'Funktion';";
 $trans["biblioMarcListTbleCol2"]   = "\$text = 'Tag';";
@@ -127,32 +127,32 @@ $trans["biblioMarcListTbleCol7"]   = "\$text = 'Unterfeld-Beschreibung';";
 $trans["biblioMarcListTbleCol8"]   = "\$text = 'Feld Daten';";
 $trans["biblioMarcListNoRows"]     = "\$text = 'Keine MARC-Felder gefunden.';";
 $trans["biblioMarcListEdit"]       = "\$text = 'Bearb.';";
-$trans["biblioMarcListDel"]        = "\$text = 'L&ouml;sche';";
+$trans["biblioMarcListDel"]        = "\$text = 'Loesche';";
 
 #****************************************************************************
 #*  Translation text for page usmarc_select.php
 #****************************************************************************
 $trans["usmarcSelectHdr"]          = "\$text = 'MARC-Feld Auswahl';";
-$trans["usmarcSelectInst"]         = "\$text = 'W&auml;hle einen Feldtyp';";
+$trans["usmarcSelectInst"]         = "\$text = 'Waehle einen Feldtyp';";
 $trans["usmarcSelectNoTags"]       = "\$text = 'Keine Tags gefunden.';";
 $trans["usmarcSelectUse"]          = "\$text = 'benutze';";
-$trans["usmarcCloseWindow"]        = "\$text = 'Schließe Fenster';";
+$trans["usmarcCloseWindow"]        = "\$text = 'Schliesse Fenster';";
 
 #****************************************************************************
 #*  Translation text for page biblio_marc_new_form.php
 #****************************************************************************
-$trans["biblioMarcNewFormHdr"]     = "\$text = 'F&uuml;ge neues MARC-Feld hinzu';";
+$trans["biblioMarcNewFormHdr"]     = "\$text = 'Fuege neues MARC-Feld hinzu';";
 $trans["biblioMarcNewFormTag"]     = "\$text = 'Tag';";
 $trans["biblioMarcNewFormSubfld"]  = "\$text = 'Unterfeld';";
 $trans["biblioMarcNewFormData"]    = "\$text = 'Feld-Daten';";
 $trans["biblioMarcNewFormInd1"]    = "\$text = 'Indikator 1';";
 $trans["biblioMarcNewFormInd2"]    = "\$text = 'Indikator 2';";
-$trans["biblioMarcNewFormSelect"]  = "\$text = 'W&auml;hle aus';";
+$trans["biblioMarcNewFormSelect"]  = "\$text = 'Waehle aus';";
 
 #****************************************************************************
 #*  Translation text for page biblio_marc_new.php
 #****************************************************************************
-$trans["biblioMarcNewSuccess"]     = "\$text = 'MARC-Feld erfolgreich hinzugef&uuml;gt.';";
+$trans["biblioMarcNewSuccess"]     = "\$text = 'MARC-Feld erfolgreich hinzugefuegt.';";
 
 #****************************************************************************
 #*  Translation text for page biblio_marc_edit_form.php
@@ -162,30 +162,30 @@ $trans["biblioMarcEditFormHdr"]    = "\$text = 'Bearbeite MARC-Feld';";
 #****************************************************************************
 #*  Translation text for page biblio_marc_edit.php
 #****************************************************************************
-$trans["biblioMarcEditSuccess"]    = "\$text = 'MARC-Feld erfolgreich hinzugef&uuml;gt.';";
+$trans["biblioMarcEditSuccess"]    = "\$text = 'MARC-Feld erfolgreich hinzugefuegt.';";
 
 #****************************************************************************
 #*  Translation text for page biblio_marc_del_confirm.php
 #****************************************************************************
-$trans["biblioMarcDelConfirmMsg"]  = "\$text = 'Sind sie sicher das Feld mit dem Tag %tag% und dem Unterfeld %subfieldCd% zu l&ouml;schen?';";
+$trans["biblioMarcDelConfirmMsg"]  = "\$text = 'Sind sie sicher das Feld mit dem Tag %tag% und dem Unterfeld %subfieldCd% zu loeschen?';";
 
 #****************************************************************************
 #*  Translation text for page biblio_marc_del.php
 #****************************************************************************
-$trans["biblioMarcDelSuccess"]     = "\$text = 'MARC-Feld erfolgreich gel&ouml;scht.';";
+$trans["biblioMarcDelSuccess"]     = "\$text = 'MARC-Feld erfolgreich geloescht.';";
 
 #****************************************************************************
 #*  Translation text for page biblio_del_confirm.php
 #****************************************************************************
-$trans["biblioDelConfirmWarn"]     = "\$text = 'Dieses Medium hat %copyCount% Exemplar(e) und %holdCount% Vorbestellung(en).  Bitte l&ouml;schen Sie diese Exemplare und/oder Vorbestellungen, bevor sie dieses Medium l&ouml;schen.';";
-$trans["biblioDelConfirmReturn"]   = "\$text = 'kehre zur Medieninformation zur&uuml;ck';";
-$trans["biblioDelConfirmMsg"]      = "\$text = 'Sind sie sicher das Medium mit dem Titel %title% zu l&ouml;schen?';";
+$trans["biblioDelConfirmWarn"]     = "\$text = 'Dieses Medium hat %copyCount% Exemplar(e) und %holdCount% Vorbestellung(en).  Bitte loeschen Sie diese Exemplare und/oder Vorbestellungen, bevor sie dieses Medium loeschen.';";
+$trans["biblioDelConfirmReturn"]   = "\$text = 'kehre zur Medieninformation zurueck';";
+$trans["biblioDelConfirmMsg"]      = "\$text = 'Sind sie sicher das Medium mit dem Titel %title% zu loeschen?';";
 
 #****************************************************************************
 #*  Translation text for page biblio_del_confirm.php
 #****************************************************************************
-$trans["biblioDelMsg"]             = "\$text = 'Das Medium mit dem Titel, %title%, wurde gel&ouml;scht.';";
-$trans["biblioDelReturn"]          = "\$text = 'Kehre zur Mediensuche zur&uuml;ck';";
+$trans["biblioDelMsg"]             = "\$text = 'Das Medium mit dem Titel, %title%, wurde geloescht.';";
+$trans["biblioDelReturn"]          = "\$text = 'Kehre zur Mediensuche zurueck';";
 
 #****************************************************************************
 #*  Translation text for page biblio_hold_list.php
@@ -197,8 +197,8 @@ $trans["biblioHoldListHdr2"]       = "\$text = 'Exemplar';";
 $trans["biblioHoldListHdr3"]       = "\$text = 'Vorbestellt';";
 $trans["biblioHoldListHdr4"]       = "\$text = 'Benutzer';";
 $trans["biblioHoldListHdr5"]       = "\$text = 'Status';";
-$trans["biblioHoldListHdr6"]       = "\$text = 'R&uuml;ckgabe';";
-$trans["biblioHoldListdel"]        = "\$text = 'L&ouml;sche';";
+$trans["biblioHoldListHdr6"]       = "\$text = 'Rueckgabe';";
+$trans["biblioHoldListdel"]        = "\$text = 'Loesche';";
 
 #****************************************************************************
 #*  Translation text for page noauth.php
@@ -212,7 +212,7 @@ $trans["MarcUploadTest"]            = "\$text = 'Teste Datensatz';";
 $trans["MarcUploadTestTrue"]        = "\$text = 'Wahr';";
 $trans["MarcUploadTestFalse"]       = "\$text = 'Falsch';";
 $trans["MarcUploadTestFileUpload"]  = "\$text = 'USMarc Eingabe-Datei';";
-$trans["MarcUploadRecordsUploaded"] = "\$text = 'Datens&auml;tze hochgeladen';";
+$trans["MarcUploadRecordsUploaded"] = "\$text = 'Datensaetze hochgeladen';";
 $trans["MarcUploadMarcRecord"]      = "\$text = 'MARC Eintrag';";
 $trans["MarcUploadTag"]             = "\$text = 'Tag';";
 $trans["MarcUploadSubfield"]        = "\$text = 'Sub';";
@@ -238,7 +238,7 @@ $trans["Date"]                               = "\$text = 'Datum';";
 $trans["Barcode"]                            = "\$text = 'Barcode';";
 $trans["New Status"]                         = "\$text = 'Neuer Status';";
 $trans["Member"]                             = "\$text = 'Mitglied';";
-$trans["Due Date"]                           = "\$text = 'R&uuml;ckgabedatum';";
+$trans["Due Date"]                           = "\$text = 'Rueckgabedatum';";
 $trans["No history was found."]              = "\$text = 'Keine Historie gefunden.';";
 
 ?>

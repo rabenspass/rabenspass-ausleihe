@@ -26,9 +26,9 @@
 <?php } ?>
 
 <?php if ($nav == "license") { ?>
- &raquo; <?php echo $navLoc->getText("homeLicenseLink");?><br>
+ &raquo; <?php echo "Software";?><br>
 <?php } else { ?>
- <a href="../home/license.php" class="alt1"><?php echo $navLoc->getText("homeLicenseLink");?></a><br>
+ <a href="https://github.com/rabenspass/rabenspass-ausleihe" class="alt1"><?php echo "Rabenspass Ausleihe Software";?></a><br>
 <?php } ?>
 
 <a href="javascript:popSecondary('../shared/help.php<?php if (isset($helpPage)) echo "?page=".H(addslashes(U($helpPage))); ?>')"><?php echo $navLoc->getText("help");?></a>

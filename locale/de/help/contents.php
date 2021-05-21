@@ -7,7 +7,7 @@
     </ol>
   <li>Generelle Konzepte der Bibliotheksverwaltung</li>
     <ol type="a">
-      <li><a href="../shared/help.php?page=status">Status-&Auml;nderungen der Medien verstehen</a></li>
+      <li><a href="../shared/help.php?page=status">Status-Aenderungen der Medien verstehen</a></li>
       <li><a href="../shared/help.php?page=barcodes">Barcodes verstehen</a></li>
     </ol>
   <li>Hilfe zur Ausleihe</li>
@@ -15,7 +15,7 @@
       <li><a href="../shared/help.php?page=circulation">Mitgliedersuche (Startseite der Ausleihe)</a></li>
       <li><a href="../shared/help.php?page=memberView">Mitgliederinfo</a></li>
       <li><a href="../shared/help.php?page=opacLookup">Barcodesuche</a></li>
-      <li><a href="../shared/help.php?page=checkin">Medienr&uuml;ckgabe</a></li>
+      <li><a href="../shared/help.php?page=checkin">Medienrueckgabe</a></li>
     </ol>
   <li>Hilfe zur Katalogisierung</li>
     <ol type="a">

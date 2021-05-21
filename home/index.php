@@ -13,11 +13,11 @@
 ?>
 <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <h2>Willkommen im Ausleihsystem von Rabenspass.</h2>
-<h5>Jugendf&ouml;rderung der Samtgemeinde Isenb&uuml;ttel</h5>
+<h5>Jugendfoerderung der Samtgemeinde Isenbuettel</h5>
 
 <button type="button" class="btn btn-secondary"><a href="/opac/">Katalog & Suche</a></button></br></br>
 <button type="button" class="btn btn-info"><a href="/opac/loginform.php">Login in Self-Service Portal</a></button></br></br>
-<button type="button" class="btn btn-danger"><a href="/circ/">Ausgabeportal f&uuml;r Mitarbeitende</a></button></br>
+<button type="button" class="btn btn-danger"><a href="/circ/">Ausgabeportal fuer Mitarbeitende</a></button></br>
 
 
 <?php include("../shared/footer.php"); ?>
