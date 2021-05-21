@@ -217,7 +217,7 @@ if (isset($biblioFlds["902a"]))
       <?php printUsmarcText(902,"a",$marcTags, $marcSubflds, FALSE);?>:
     </td>
     <td valign="top" class="primary">
-      <img src="https://data.rabenspass.de/ausleihe/<?php echo $biblioFlds["902a"]->getFieldData();?>" width="150">
+      <a href="https://data.rabenspass.de/ausleihe/<?php echo $biblioFlds["902a"]->getFieldData();?>" target="_blank"><img src="https://data.rabenspass.de/ausleihe/<?php echo $biblioFlds["902a"]->getFieldData();?>" width="150"></a>
     </td>
   </tr>
 </table>
