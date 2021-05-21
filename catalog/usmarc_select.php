@@ -73,7 +73,7 @@
 <style type="text/css">
   <?php include("../css/style.php");?>
 </style>
-<meta name="description" content="OpenBiblio Library Automation System">
+<meta name="description" content="Rabenspass Ausleihe System">
 <title><?php echo $loc->getText("usmarcSelectHdr"); ?></title>
 
 <script language="JavaScript">

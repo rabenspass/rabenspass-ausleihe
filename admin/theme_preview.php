@@ -81,7 +81,7 @@
 <style type="text/css">
   <?php include("../css/style.php");?>
 </style>
-<meta name="description" content="OpenBiblio Library Automation System">
+<meta name="description" content="Rabenspass Ausleihe System">
 <title><?php echo H($_POST["themeName"]); ?> <?php echo $loc->getText("adminTheme_preview_Themepreview"); ?></title>
 
 </head>

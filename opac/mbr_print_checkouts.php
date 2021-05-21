@@ -57,7 +57,7 @@
 <style type="text/css">
   <?php include("../css/style.php");?>
 </style>
-<meta name="description" content="OpenBiblio Library Automation System">
+<meta name="description" content="Rabenspass Ausleihe System">
 <title>Checkouts for <?php echo H($mbr->getFirstLastName());?></title>
 
 </head>

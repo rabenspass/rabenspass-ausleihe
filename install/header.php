@@ -10,7 +10,7 @@
   <?php include("../css/style.css"); ?>
 </style>
 <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<meta name="description" content="OpenBiblio Library Automation System">
+<meta name="description" content="Rabenspass Ausleihe System">
 <title>OpenBiblio Install</title>
 </head>
 <body bgcolor="#ffffff" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginheight="0" marginwidth="0" <?php
