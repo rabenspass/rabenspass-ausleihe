@@ -8,8 +8,8 @@
 <head>
 <style type="text/css">
   <?php include("../css/style.css"); ?>
-  <?php include("../css/bootstrap.min.css"); ?>
 </style>
+<link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <meta name="description" content="OpenBiblio Library Automation System">
 <title>OpenBiblio Install</title>
 </head>
