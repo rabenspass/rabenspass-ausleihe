@@ -153,13 +153,13 @@ $trans["headerReports"]            = "\$text='Berichte';";
 #****************************************************************************
 #*  Translation text for page footer.php
 #****************************************************************************
-$trans["footerLibraryHome"]        = "\$text='Bibliothekshomepage';";
-$trans["footerOPAC"]               = "\$text='OPAC';";
+$trans["footerLibraryHome"]        = "\$text='Rabenspass Webseite';";
+$trans["footerOPAC"]               = "\$text='Self Service Portal';";
 $trans["footerHelp"]               = "\$text='Hilfe';";
 $trans["footerPoweredBy"]          = "\$text='Powered by OpenBiblio version';";
 $trans["footerDatabaseVersion"]    = "\$text='database version';";
 $trans["footerCopyright"]          = "\$text='Copyright';";
 $trans["footerUnderThe"]           = "\$text='under the';";
-$trans["footerGPL"]                = "\$text='GNU General Public License';";
+$trans["footerGPL"]                = "\$text='Lizenz: GNU General Public License';";
 
 ?>
