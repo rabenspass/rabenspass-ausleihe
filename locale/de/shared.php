@@ -50,7 +50,7 @@ $trans["biblioViewPictureHeader"]  = "\$text = 'Bild des Mediums';";
 $trans["biblioViewCallNmbr"]       = "\$text = 'Standort';";
 $trans["biblioViewTble2Hdr"]       = "\$text = 'Exemplarinformationen';";
 $trans["biblioViewTble2Col1"]      = "\$text = 'Mediennummer';";
-$trans["biblioViewTble2Col2"]      = "\$text = 'Beschreibung';";
+$trans["biblioViewTble2Col2"]      = "\$text = 'Zustand';";
 $trans["biblioViewTble2Col3"]      = "\$text = 'Status';";
 $trans["biblioViewTble2Col4"]      = "\$text = 'Status Datum';";
 $trans["biblioViewTble2Col5"]      = "\$text = 'Rueckgabe';";
