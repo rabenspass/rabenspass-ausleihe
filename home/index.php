@@ -11,8 +11,8 @@
   require_once("../classes/Localize.php");
   $loc = new Localize(OBIB_LOCALE,$tab);
 ?>
-<h1>Willkommen im Ausleihsystem von Rabenspass.</h1>
-<h2>Der Jugendf&ouml;rderung der Samtgemeinde Isenb&uuml;ttel</h2>
+<h2>Willkommen im Ausleihsystem von Rabenspass.</h2>
+<h3>Der Jugendf&ouml;rderung der Samtgemeinde Isenb&uuml;ttel</h3>
 
 <a href="/opac/">Katalog & Suche</a></br>
 <a href="/opac/loginform.php">Login in Self-Service Portal</a></br>
