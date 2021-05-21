@@ -16,18 +16,12 @@
 <center>
   <?php if (OBIB_LIBRARY_URL != "") { ?>
     <a href="<?php echo H(OBIB_LIBRARY_URL);?>"><?php echo $headerLoc->getText("footerLibraryHome"); ?></a> |
-  <?php }
-  if (OBIB_OPAC_URL != "") { ?>
-    <a href="<?php echo H(OBIB_OPAC_URL);?>"><?php echo $headerLoc->getText("footerOPAC"); ?></a> |
   <?php } ?>
   <a href="javascript:popSecondary('../shared/help.php<?php if (isset($helpPage)) echo "?page=".H(addslashes(U($helpPage))); ?>')"><?php echo $headerLoc->getText("footerHelp"); ?></a>
   <br><br>
-    <a href="http://obiblio.sourceforge.net/"><img src="../images/powered_by_openbiblio.gif" width="125" height="44" border="0"></a>
+   <!-- <a href="http://obiblio.sourceforge.net/"><img src="../images/powered_by_openbiblio.gif" width="125" height="44" border="0"></a>-->
   <br><br>
-  <?php echo $headerLoc->getText("footerPoweredBy"); ?> <?php echo H(OBIB_CODE_VERSION);?>
-  <?php echo $headerLoc->getText("footerDatabaseVersion"); ?> <?php echo H(OBIB_DB_VERSION);?><br>
-  <?php echo $headerLoc->getText("footerCopyright"); ?> &copy; 2002-2014 Dave Stevens, et al.<br>
-  <?php echo $headerLoc->getText("footerUnderThe"); ?>
+  <a>Based on <a href="http://obiblio.sourceforge.net">OpenBiblio</a></br>
   <a href="../shared/copying.html"><?php echo $headerLoc->getText("footerGPL"); ?></a>
 </center>
 <br>

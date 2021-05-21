@@ -38,7 +38,7 @@
 #****************************************************************************
 #*  Translation text for page index.php
 #****************************************************************************
-$trans["indexHeading"]       = "\$text='Willkommen bei OpenBiblio';";
+$trans["indexHeading"]       = "\$text='Willkommen auf dem Ausleihsystem von Rabenspass';";
 $trans["indexIntro"]         = "\$text=
   'Benutzen Sie die Navigations-Reiter am oberen Rand jeder Seite um zu den Bereichen zu gelangen.';";
 $trans["indexTab"]           = "\$text='Reiter';";
