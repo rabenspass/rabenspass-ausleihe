@@ -11,6 +11,7 @@
   require_once("../classes/Localize.php");
   $loc = new Localize(OBIB_LOCALE,$tab);
 ?>
+<link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <h2>Willkommen im Ausleihsystem von Rabenspass.</h2>
 <h3>Der Jugendf&ouml;rderung der Samtgemeinde Isenb&uuml;ttel</h3>
 
